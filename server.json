@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/sec-13f",
   "title": "Sec 13f",
   "description": "SEC 13F — institutional ownership, asked security-first.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/sec-13f",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-sec-13f",
