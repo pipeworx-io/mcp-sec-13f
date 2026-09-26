@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sec-13f",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "SEC 13F — institutional ownership, asked security-first.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c74cff7ed4261ed0b67d1db3a2feb90028e311ceb875c5ea869048548bfd5be6",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-0b9abff07e518d29b1d8d8ca79172a8b5a549933f8a35a0ea92b0619a1c42241",
+    "sourceCommit": "6fe8fb3e01138dfc4ebe7d5c246503aab9278d06"
   }
 }
