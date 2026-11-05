@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sec-13f",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "SEC 13F — institutional ownership, asked security-first.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "sec-13f",
     "gatewaySlug": "sec-13f",
-    "sourceHash": "v1-385e86107cd253a89531e65fd4c0310438d195c7ece7d5c48b3ce50250dff62c",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-33f5bc6e3eadd71f6c824308fa6efc4a0ceb724fe4db5e07ba08aac6a608e7aa",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
